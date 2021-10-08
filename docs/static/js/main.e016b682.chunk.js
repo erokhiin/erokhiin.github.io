@@ -1,2 +1,0 @@
-(this.webpackJsonperokhiin=this.webpackJsonperokhiin||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var i=n(1),r=n(3),c=n.n(r),s=n(0),h=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:"Hi there \ud83d\udc4b"})})};c.a.render(Object(s.jsx)(i.StrictMode,{children:Object(s.jsx)(h,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.e016b682.chunk.js.map
