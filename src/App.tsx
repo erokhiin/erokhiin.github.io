@@ -1,9 +1,8 @@
-import { Links } from "./Links";
-
 const App = () => (
   <div>
-    <h1>My links</h1>
-    <Links />
+    <h1>Hi there 👋</h1>
+    {/* <h1>My links</h1> */}
+    {/* <Links /> */}
   </div>
 );
 
