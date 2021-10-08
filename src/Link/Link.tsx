@@ -1,0 +1,16 @@
+import styles from "./Link.module.scss";
+
+type LinkProps = {
+  href: string;
+  children: React.ReactNode;
+};
+
+export const Link = (props: LinkProps) => {
+  const { href, children } = props;
+
+  return (
+    <a href={href} className={styles.link}>
+      {children}
+    </a>
+  );
+};
