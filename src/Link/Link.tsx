@@ -1,4 +1,4 @@
-import styles from "./Link.module.scss";
+import s from "./Link.module.scss";
 
 type LinkProps = {
   href: string;
@@ -9,7 +9,7 @@ export const Link = (props: LinkProps) => {
   const { href, children } = props;
 
   return (
-    <a href={href} className={styles.link}>
+    <a href={href} className={s.link}>
       {children}
     </a>
   );

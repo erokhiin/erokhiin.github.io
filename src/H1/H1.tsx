@@ -1,4 +1,4 @@
-import styles from "./H1.module.scss";
+import s from "./H1.module.scss";
 
 type H1Props = {
   children: React.ReactNode;
@@ -7,5 +7,5 @@ type H1Props = {
 export const H1 = (props: H1Props) => {
   const { children } = props;
 
-  return <h1 className={styles.H1}> {children}</h1>;
+  return <h1 className={s.H1}> {children}</h1>;
 };
