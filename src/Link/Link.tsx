@@ -1,4 +1,4 @@
-import s from "./Link.module.scss";
+import * as s from "./Link.module.scss";
 
 type LinkProps = {
   href: string;

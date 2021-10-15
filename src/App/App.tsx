@@ -1,7 +1,7 @@
 import { H1 } from "../H1";
 import { Link } from "../Link";
 
-import s from "./App.module.scss";
+import * as s from "./App.module.scss";
 
 export const App = () => (
   <div className={s.App}>

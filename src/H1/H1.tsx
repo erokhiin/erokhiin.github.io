@@ -1,4 +1,4 @@
-import s from "./H1.module.scss";
+import * as s from "./H1.module.scss";
 
 type H1Props = {
   children: React.ReactNode;
