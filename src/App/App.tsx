@@ -11,7 +11,7 @@ export const App = () => (
         <Link href="https://t.me/erokhiin">telegram</Link>
       </li>
       <li>
-        <Link href="https://linkedIn.com/erokhiin">linkedIn</Link>
+        <Link href="https://linkedin.com/in/erokhiin">linkedIn</Link>
       </li>
       <li>
         <Link href="https://github.com/erokhiin">github</Link>
